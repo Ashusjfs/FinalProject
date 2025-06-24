@@ -32,10 +32,7 @@ A Python-based automated scanner to detect common web application vulnerabilitie
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/web-vuln-scanner.git
-cd web-vuln-scanner
-
-pip install -r requirements.txt
+git clone https://github.com/Ashusjfs/FinalProject/
 
 pip install flask requests beautifulsoup4 fpdf
 
