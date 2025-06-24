@@ -34,3 +34,11 @@ A Python-based automated scanner to detect common web application vulnerabilitie
 ```bash
 git clone https://github.com/yourusername/web-vuln-scanner.git
 cd web-vuln-scanner
+
+pip install -r requirements.txt
+
+pip install flask requests beautifulsoup4 fpdf
+
+python test.py
+
+
