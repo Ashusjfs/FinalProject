@@ -32,7 +32,7 @@ A Python-based automated scanner to detect common web application vulnerabilitie
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/Ashusjfs/FinalProject/test.py](https://github.com/Ashusjfs/FinalProject/blob/main/test.py
+git clone https://github.com/Ashusjfs/FinalProject/blob/main/test.py
 
 pip install flask requests beautifulsoup4 fpdf
 
